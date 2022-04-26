@@ -59,6 +59,8 @@ docker-compose up
 
 - 11025
   - mldonkey version 11025
+- 11025-p1
+  - Add docker push github workflow
 <!--CHANGE-LOG-END-->
 
 ### License
