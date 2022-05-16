@@ -1,4 +1,21 @@
-Docker - mldonkey with UID and GID handling.
+# Docker - mldonkey with UID and GID handling [![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
+
+> This docker image no longer build as `mldonkey` is removed from Alpine Linux packages. (2022)
+
+### Table Of Content
+<!-- TOC -->
+
+- [Build](#build)
+- [Usage](#usage)
+  - [Host Directories and Volume Mapping](#host-directories-and-volume-mapping)
+  - [Run](#run)
+  - [Compose](#compose)
+- [Repository](#repository)
+- [Contributors](#contributors)
+- [Change Log](#change-log)
+- [License](#license)
+
+<!-- /TOC -->
 
 ### Build
 
